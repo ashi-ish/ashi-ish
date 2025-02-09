@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm **Ashish Dnyaneshvar Parulekar**  
 
-<!--
-**ashi-ish/ashi-ish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Research Associate | Full-Stack Developer | Quantum Computing Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 **Master's Student in Computer Science @ University of Dayton**  
+🔹 **3+ years of experience in Full-Stack Development & Data Science**  
+🔹 Passionate about **AI, Deep Learning, Quantum Biology, and Scalable Systems**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+💻 **Languages:** Python, JavaScript, TypeScript, Java, C++, C, MATLAB, SQL  
+🌐 **Web Development:** React, Angular, Node.js, NestJS, HTML, CSS, Bootstrap  
+🛢 **Databases:** MySQL, MongoDB, PostgreSQL, Solr  
+🖥 **Software & Tools:** Qiskit, Visual Studio Code, Postman, Jira, Figma, Git, Docker, AWS  
+
+---
+
+## 📌 Featured Projects  
+
+### 🚀 **Object Detection (University of Dayton, Jan 2024 - May 2024)**  
+📌 **Implemented YOLO v5** for real-time object detection with high accuracy & low latency.  
+📌 **Optimized model performance** for mobile devices using pruning & quantization techniques.  
+📌 **Deployed on Android & iOS** for cross-platform compatibility & scalability.  
+
+🔗 **Repo:** [GitHub Link (if available)]  
+
+---
+
+## 💼 Experience  
+
+### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - Present)*  
+
+### **🔹 Software Engineer @ Grab A Grub Service Limited** *(Jun 2022 - Jun 2023)*   
+
+### **🔹 Consultant NodeJS @ Hungama Media Private Limited** *(Jan 2021 - May 2022)*   
+
+### **🔹 Associate Software Developer @ Nimap Infotech LLP** *(May 2020 - Dec 2020)*   
+
+---
+
+## 🏆 Certifications  
+
+✔ **Full-Stack Development**  
+✔ **AWS Certified Solution Architect**  
+✔ **Data Science Using Python**  
+✔ **Data Engineering Specialization**  
+
+---
+
+## 📫 Connect with Me  
+
+💼 **LinkedIn:** [linkedin.com/in/ashish-parulekar](https://www.linkedin.com/in/ashish-parulekar/)  
+📂 **GitHub:** [github.com/ashi-ish](https://github.com/ashi-ish)  
+📧 **Email:** [parulekara1@udayton.edu](mailto:parulekara1@udayton.edu)  
+
+---
+
