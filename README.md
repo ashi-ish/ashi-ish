@@ -15,17 +15,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 🚀 **Object Detection (University of Dayton, Jan 2024 - May 2024)**  
-📌 **Implemented YOLO v5** for real-time object detection with high accuracy & low latency.  
-📌 **Optimized model performance** for mobile devices using pruning & quantization techniques.  
-📌 **Deployed on Android & iOS** for cross-platform compatibility & scalability.  
-
-🔗 **Repo:** [GitHub Link (if available)]  
-
----
-
 ## 💼 Experience  
 
 ### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - Present)*  
