@@ -36,10 +36,10 @@
 ✔ **Full-Stack Development**  
 ✔ **AWS Certified Solution Architect**  
 ✔ **Data Science Using Python**  
-✔ **Data Engineering Specialization** 
-✔ **Multicloud Devops and AI Challenge**
-✔ **Foundations of CyberSecurity**
-✔ **The Non-Technical Skills of Effective Data Scientists**
+✔ **Data Engineering Specialization**  
+✔ **Multicloud Devops and AI Challenge**   
+✔ **Foundations of CyberSecurity**  
+✔ **The Non-Technical Skills of Effective Data Scientists**  
 
 ---
 
