@@ -25,7 +25,7 @@
 
 ### **🔹 Software Engineer @ Grab A Grub Service Limited** *(Jun 2022 - Jun 2023)*   
 
-### **🔹 Consultant NodeJS @ Hungama Media Private Limited** *(Jan 2021 - May 2022)*   
+### **🔹 Software Developer @ Hungama Media Private Limited** *(Jan 2021 - May 2022)*   
 
 ### **🔹 Associate Software Developer @ Nimap Infotech LLP** *(May 2020 - Dec 2020)*   
 
