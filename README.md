@@ -11,7 +11,7 @@
 💻 **Languages:** Python, JavaScript, TypeScript, GoLang, Java, C++, C, MATLAB, SQL, NoSQL  
 🌐 **Web Development:** React, Angular, Node.js, NestJS, HTML, Tailwind CSS, Bootstrap  
 🛢 **Databases:** MySQL, MongoDB, PostgreSQL, Solr  
-🖥 **Software & Tools:** Git, Docker, Kubernetes, Jenkins AWS(Lambda, EC2, S3), Terraform, GCP, Microsoft Azure, Kafka, Postman, Visual Studio Code, Jira, Figma
+🖥 **Software & Tools:** Git, Docker, Kubernetes, Jenkins AWS(Lambda, EC2, S3), Terraform, GCP, Microsoft Azure, Kafka, Postman, Visual Studio Code, Jira, Figma**
 **AI & LLM Tools: GitHub Copilot, Amazon Bedrock, ChatGPT, Claude, Gemini**
 ---
 
