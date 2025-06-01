@@ -2,22 +2,22 @@
 
 🚀 **Machine Learning Research Associate | Computer Engineer | Full Stack Developer | Data Engineer**  
 
-🔹 **Master's Student in Computer Science @ University of Dayton**  
+🔹 **Graduate Student in Computer Science @ University of Dayton**  
 🔹 **4 years of experience in Full-Stack Development & Data Science**  
 🔹 Passionate about **AI, Deep Learning, Quantum Biology, and Scalable Systems**  
 
 ## 🛠 Tech Stack  
 
-💻 **Languages:** Python, JavaScript, TypeScript, Java, C++, C, MATLAB, SQL, NoSQL  
-🌐 **Web Development:** React, Angular, Node.js, NestJS, HTML, CSS, Bootstrap  
+💻 **Languages:** Python, JavaScript, TypeScript, GoLang, Java, C++, C, MATLAB, SQL, NoSQL  
+🌐 **Web Development:** React, Angular, Node.js, NestJS, HTML, Tailwind CSS, Bootstrap  
 🛢 **Databases:** MySQL, MongoDB, PostgreSQL, Solr  
 🖥 **Software & Tools:** Git, Docker, Kubernetes, Jenkins AWS(Lambda, EC2, S3), Terraform, GCP, Microsoft Azure, Kafka, Postman, Visual Studio Code, Jira, Figma
-
+**AI & LLM Tools: GitHub Copilot, Amazon Bedrock, ChatGPT, Claude, Gemini**
 ---
 
 ## 💼 Experience  
 
-### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - Present)*  
+### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - May 2025)*  
 
 ### **🔹 Student Hospitality Associate @ University of Dayton** *(Aug 2024 - Dec 2024)*  
 
@@ -40,7 +40,7 @@
 ✔ **Multicloud Devops and AI Challenge**   
 ✔ **Foundations of CyberSecurity**  
 ✔ **The Non-Technical Skills of Effective Data Scientists**  
-
+✔ **Microsoft Access Essential Training**
 ---
 
 ## 📫 Connect with Me  
