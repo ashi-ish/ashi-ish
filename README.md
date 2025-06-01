@@ -6,13 +6,17 @@
 🔹 **4 years of experience in Full-Stack Development & Data Science**  
 🔹 Passionate about **AI, Deep Learning, Quantum Biology, and Scalable Systems**  
 
-## 🛠 Tech Stack  
+---
 
-💻 **Languages:** Python, JavaScript, TypeScript, GoLang, Java, C++, C, MATLAB, SQL, NoSQL  
-🌐 **Web Development:** React, Angular, Node.js, NestJS, HTML, Tailwind CSS, Bootstrap  
-🛢 **Databases:** MySQL, MongoDB, PostgreSQL, Solr  
-🖥 **Software & Tools:** Git, Docker, Kubernetes, Jenkins AWS(Lambda, EC2, S3), Terraform, GCP, Microsoft Azure, Kafka, Postman, Visual Studio Code, Jira, Figma
-**AI & LLM Tools:** GitHub Copilot, Amazon Bedrock, ChatGPT, Claude, Gemini
+### 🧠 Tech Stack & Tools
+
+* **Languages:** Python, JavaScript, TypeScript, Go, Java, C++, C, MATLAB, SQL, NoSQL
+* **Web Development:** React, Angular, Node.js, NestJS, HTML5, Tailwind CSS, Bootstrap
+* **Databases:** MySQL, MongoDB, PostgreSQL, Solr
+* **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Terraform, AWS (Lambda, EC2, S3), Google Cloud Platform (GCP), Microsoft Azure
+* **Tools & Platforms:** Git, Postman, Kafka, Visual Studio Code, Jira, Figma
+* **AI & LLM Tools:** GitHub Copilot, ChatGPT, Amazon Bedrock, Claude, Gemini
+
 ---
 
 ## 💼 Experience  
