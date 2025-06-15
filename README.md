@@ -21,7 +21,7 @@
 
 ## 💼 Experience  
 
-### **🔹 Engineering Intern @ Striv AI, Inc. ** *(Jan 2025 - May 2025)* 
+### **🔹 Engineering Intern @ Striv AI, Inc.** *(Jan 2025 - May 2025)* 
 
 ### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - May 2025)*  
 
