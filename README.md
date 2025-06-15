@@ -1,18 +1,18 @@
 # 👋 Hi, I'm **Ashish Dnyaneshvar Parulekar**  
 
-🚀 **Machine Learning Research Associate | Computer Engineer | Full Stack Developer | Data Engineer**  
+🚀 **Software Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast | AI/ML Researcher | Data Engineer**  
 
 🔹 **Graduate Student in Computer Science @ University of Dayton**  
-🔹 **4 years of experience in Full-Stack Development & Data Science**  
-🔹 Passionate about **AI, Deep Learning, Quantum Biology, and Scalable Systems**  
+🔹 **5 years of experience in Full-Stack Development & Data Science**  
+🔹 Passionate about **AI, Deep Learning, Machine Learning, and Scalable Systems**  
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
 * **Languages:** Python, JavaScript, TypeScript, Go, Java, C++, C, MATLAB, SQL, NoSQL
-* **Web Development:** React, Angular, Node.js, NestJS, HTML5, Tailwind CSS, Bootstrap
-* **Databases:** MySQL, MongoDB, PostgreSQL, Solr
+* **Web Development:** React, NextJS, Angular, Node.js, NestJS, HTML5, Tailwind CSS, Bootstrap
+* **Databases:** MySQL, MongoDB, PostgreSQL, Solr, SupaBase
 * **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Terraform, AWS (Lambda, EC2, S3), Google Cloud Platform (GCP), Microsoft Azure
 * **Tools & Platforms:** Git, Postman, Kafka, Visual Studio Code, Jira, Figma
 * **AI & LLM Tools:** GitHub Copilot, ChatGPT, Amazon Bedrock, Claude, Gemini
@@ -20,6 +20,8 @@
 ---
 
 ## 💼 Experience  
+
+### **🔹 Engineering Intern @ Striv AI, Inc. ** *(Jan 2025 - May 2025)* 
 
 ### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - May 2025)*  
 
