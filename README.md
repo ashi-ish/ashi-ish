@@ -21,19 +21,19 @@
 
 ## 💼 Experience  
 
-### **🔹 Engineering Intern @ Striv AI, Inc.** *(Jan 2025 - May 2025)* 
+### **🔹 Engineering Intern @ Striv AI, Inc.** *(June 2025 - Present)* 
 
-### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(Jan 2025 - May 2025)*  
+### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(January 2025 - May 2025)*  
 
-### **🔹 Student Hospitality Associate @ University of Dayton** *(Aug 2024 - Dec 2024)*  
+### **🔹 Student Hospitality Associate @ University of Dayton** *(August 2024 - December 2024)*  
 
-### **🔹 Front Desk Assistant @ University of Dayton** *(May 2024 - Dec 2024)*  
+### **🔹 Front Desk Assistant @ University of Dayton** *(May 2024 - December 2024)*  
 
-### **🔹 Software Engineer @ Grab A Grub Service Limited** *(Jun 2022 - Jun 2023)*   
+### **🔹 Software Engineer @ Grab A Grub Service Limited** *(June 2022 - June 2023)*   
 
-### **🔹 Software Developer @ Hungama Media Private Limited** *(Jan 2021 - May 2022)*   
+### **🔹 Software Developer @ Hungama Media Private Limited** *(January 2021 - May 2022)*   
 
-### **🔹 Associate Software Developer @ Nimap Infotech LLP** *(May 2020 - Dec 2020)*   
+### **🔹 Associate Software Developer @ Nimap Infotech LLP** *(December 2019 - December 2020)*   
 
 ---
 
