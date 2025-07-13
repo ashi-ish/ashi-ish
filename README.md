@@ -11,7 +11,7 @@
 ### 🧠 Tech Stack & Tools
 
 * **Languages:** Python, JavaScript, TypeScript, Go, Java, C++, C, MATLAB, SQL, NoSQL
-* **Web Development:** React, NextJS, Angular, Node.js, NestJS, HTML5, Tailwind CSS, Bootstrap
+* **Web and App Development:** React, NextJS, Angular, Node.js, NestJS, Django, HTML5, Tailwind CSS, Bootstrap, Flutter
 * **Databases:** MySQL, MongoDB, PostgreSQL, Solr, SupaBase
 * **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Terraform, AWS (Lambda, EC2, S3), Google Cloud Platform (GCP), Microsoft Azure
 * **Tools & Platforms:** Git, Postman, Kafka, Visual Studio Code, Jira, Figma
@@ -20,6 +20,8 @@
 ---
 
 ## 💼 Experience  
+
+### **🔹 Developer Intern @ Build Navigator Pro, Inc.** *(July 2025 - Present)* 
 
 ### **🔹 Engineering Intern @ Striv AI, Inc.** *(June 2025 - Present)* 
 
