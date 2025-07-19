@@ -23,7 +23,7 @@
 
 ### **🔹 Developer Intern @ Build Navigator Pro, Inc.** *(July 2025 - Present)* 
 
-### **🔹 Engineering Intern @ Striv AI, Inc.** *(June 2025 - Present)* 
+### **🔹 Full Stack AI Research @ Striv AI, Inc.** *(June 2025 - Present)* 
 
 ### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(January 2025 - May 2025)*  
 
