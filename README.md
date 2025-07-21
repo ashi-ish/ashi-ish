@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF">Ashish</span></h1>
 
 <p align="center">
-  🚀 Software Dev | Cloud & DevOps Fan | AI/ML Explorer | Full-Stack Engineer  
+  🚀 Software Engineer | Cloud & DevOps Fan | AI/ML Explorer | Full-Stack Engineer  
 </p>
 
 <p align="center">
