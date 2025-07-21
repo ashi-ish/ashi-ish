@@ -82,7 +82,6 @@
 
 ## 🛠️ Projects I’m Proud Of
 
-- 🎯 **[AgentProof]** — AI agent verification dashboard with Supabase, Clerk & Trust Score visualization  
 - 🤖 **[Faster R-CNN & YOLOv8 Evaluation](https://github.com/ashi-ish/yolo-vs-frcnn)** — Object detection benchmark with mAP comparison and user interface  
 
 ---
