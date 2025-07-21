@@ -1,61 +1,49 @@
-# 👋 Hi, I'm **Ashish Dnyaneshvar Parulekar**  
+<h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF">Ashish</span></h1>
 
-🚀 **Software Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast | AI/ML Researcher | Data Engineer**  
+<p align="center">
+  🚀 Software Dev | Cloud & DevOps Fan | AI/ML Explorer | Full-Stack Engineer  
+</p>
 
-🔹 **Graduate Student in Computer Science @ University of Dayton**  
-🔹 **5 years of experience in Full-Stack Development & Data Science**  
-🔹 Passionate about **AI, Deep Learning, Machine Learning, and Scalable Systems**  
-
----
-
-### 🧠 Tech Stack & Tools
-
-* **Languages:** Python, JavaScript, TypeScript, Go, Java, C++, C, MATLAB, SQL, NoSQL
-* **Web and App Development:** React, NextJS, Angular, Node.js, NestJS, Django, HTML5, Tailwind CSS, Bootstrap, Flutter
-* **Databases:** MySQL, MongoDB, PostgreSQL, Solr, SupaBase
-* **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Terraform, AWS (Lambda, EC2, S3), Google Cloud Platform (GCP), Microsoft Azure
-* **Tools & Platforms:** Git, Postman, Kafka, Visual Studio Code, Jira, Figma
-* **AI & LLM Tools:** GitHub Copilot, ChatGPT, Amazon Bedrock, Claude, Gemini
+<p align="center">
+  🎓 Grad Student @ <strong>University of Dayton</strong>  
+</p>
 
 ---
 
-## 💼 Experience  
+### ⚡ Tech Playground
 
-### **🔹 Developer Intern @ Build Navigator Pro, Inc.** *(July 2025 - Present)* 
-
-### **🔹 Full Stack AI Research @ Striv AI, Inc.** *(June 2025 - Present)* 
-
-### **🔹 Machine Learning Research Associate @ University of Dayton Research Institute** *(January 2025 - May 2025)*  
-
-### **🔹 Student Hospitality Associate @ University of Dayton** *(August 2024 - December 2024)*  
-
-### **🔹 Front Desk Assistant @ University of Dayton** *(May 2024 - December 2024)*  
-
-### **🔹 Software Engineer @ Grab A Grub Service Limited** *(June 2022 - June 2023)*   
-
-### **🔹 Software Developer @ Hungama Media Private Limited** *(January 2021 - May 2022)*   
-
-### **🔹 Associate Software Developer @ Nimap Infotech LLP** *(December 2019 - December 2020)*   
-
----
-
-## 🏆 Certifications  
-
-✔ **Full-Stack Development**  
-✔ **AWS Certified Solution Architect**  
-✔ **Data Science Using Python**  
-✔ **Data Engineering Specialization**  
-✔ **Multicloud Devops and AI Challenge**   
-✔ **Foundations of CyberSecurity**  
-✔ **The Non-Technical Skills of Effective Data Scientists**  
-✔ **Microsoft Access Essential Training**
----
-
-## 📫 Connect with Me  
-
-💼 **LinkedIn:** [linkedin.com/in/ashish-parulekar](https://www.linkedin.com/in/ashish-parulekar/)  
-📂 **GitHub:** [github.com/ashi-ish](https://github.com/ashi-ish)  
-📧 **Email:** [parulekar.ashish17@gmail.com](mailto:parulekar.ashish17@gmail.com)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
+### 🛠️ Projects I’m Proud Of
+
+- 🎯 **[AgentProof](https://github.com/ashi-ish/agentproof)** — AI agent verification dashboard with Supabase, Clerk & Trust Score visualization  
+- 🤖 **[Faster R-CNN & YOLOv8 Evaluation](https://github.com/ashi-ish/yolo-vs-frcnn)** — Object detection benchmark with mAP comparison and user interface  
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-parulekar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/ashi-ish"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
+  <a href="mailto:parulekar.ashish17@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+✨ *Always building something new. Let’s make magic happen!* 🚀
