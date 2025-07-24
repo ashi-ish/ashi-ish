@@ -52,7 +52,3 @@
   <a href="mailto:parulekar.ashish17@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ashi-ish"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center"><em>✨ Always building something cool. Let’s make magic happen! 🚀</em></p>
